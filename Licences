@@ -1,0 +1,30 @@
+Hardware License – Modular Instrumentation System
+
+1. License for the Core System (Global Structure)
+The entire system concept, including the motherboard hardware, pinout, and compatibility philosophy, is licensed under the CERN Open Hardware Licence Version 2 – Weakly Reciprocal (OHL-W).
+This license allows any individual or entity (hobbyists, students, laboratories, and companies) to build, modify, and commercialize the system, including their own versions of the motherboard. If the product is distributed in assembled form, there is no obligation to publish modifications.
+
+2. License for Developed Modules
+All modules developed as part of this project and published on its official pages are licensed under the CERN Open Hardware Licence Version 2 – Strongly Reciprocal (OHL-S).
+This means:
+
+You are free to use, build, and commercialize these modules.
+If you modify an existing module and redistribute it, you must publish your modifications under the same license (OHL-S), ensuring they benefit the open hardware community and project.
+
+3. Development of Compatible Cards (Non-Derivative Designs)
+If you develop your own cards compatible with the system that are not based on the existing designs of this project, you are free to choose the license for these new cards.
+Note:
+
+You cannot claim a generic function (e.g., "a DMM card compatible with [System Name]") as a licensed project. Only specific designs can be licensed.
+Compatibility with the system must not create confusion regarding the origin or licensing of the designs.
+
+4. Software License
+All source code (firmware, control software, and tools) associated with this project is licensed under the GNU General Public License Version 3 (GPLv3).
+
+Remarks:
+
+For any questions or clarifications regarding the application of these licenses, feel free to contact us or refer to the official license texts:
+
+CERN OHL-W
+CERN OHL-S
+GPLv3
