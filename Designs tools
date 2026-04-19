@@ -1,0 +1,5 @@
+Design Tools Guideline
+To ensure maximum flexibility and avoid proprietary software paywalls, the following open-source tools will be used for this project:
+
+Electronic design and simulation: KiCad
+Mechanical design: FreeCAD
