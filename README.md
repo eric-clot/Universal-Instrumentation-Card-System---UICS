@@ -63,12 +63,17 @@ Here’s a list of modules we plan to design:
 - Matrix switcher
 - Spectrometer
 - Semiconductor tester
+- TEC temperature controller
 
 ### **Communication & Interfaces**
 - Ethernet control unit
 - GPIB interface
 - RS232 interface
 - Interrack link
+
+### **Tools andutilities**
+- Extender card
+- Universal temperature controlled enclosure
 
 ---
 **And many more to come!**
